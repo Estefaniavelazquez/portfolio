@@ -212,7 +212,17 @@ h4{
     flex-direction: row-reverse;
     
   }
+
+  .project3 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+  }
   
+  .project-image3 {
+    width: 50%;
+  }
+
   .project-image2 {
     width: 45%;
   }
